@@ -1,0 +1,33 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 环境变量与密钥
+.env
+*.local
+
+# 本地实际配置（含内网地址，不入库；模板 config.example.ini 正常入库）
+config.ini
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志与临时文件
+*.log
+.tmp
+test/
