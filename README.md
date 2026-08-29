@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: befd9339bb75ddbba4a5cce56a2adfd0_0b14f716a36311f192a2525400287e28
-    ReservedCode1: fQdVeP1Hxu/lUZvFwUfutOMnTglTvTN274HM1S2L/8c2+NTaUFjcmh+jSccODE7CGt0ZzUiC2sbH/N6oFDiYUKqWjlfOWELN9TwooSB/Y8jR8x7TRm83h91SMAUKdvTJyZHlhfFlv0UBfShkDyBbgzPHKlgj0iKhGyewvXOm/rEYmYLxubKihN/4llU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: befd9339bb75ddbba4a5cce56a2adfd0_0b14f716a36311f192a2525400287e28
-    ReservedCode2: fQdVeP1Hxu/lUZvFwUfutOMnTglTvTN274HM1S2L/8c2+NTaUFjcmh+jSccODE7CGt0ZzUiC2sbH/N6oFDiYUKqWjlfOWELN9TwooSB/Y8jR8x7TRm83h91SMAUKdvTJyZHlhfFlv0UBfShkDyBbgzPHKlgj0iKhGyewvXOm/rEYmYLxubKihN/4llU=
----
-
 # cysxun 智聊机器人
 
 基于 Streamlit + LangChain + Ollama 的 Web 聊天机器人，调用本地大模型 `qwen2:1.5b` 实现多轮对话。
